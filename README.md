@@ -1,4 +1,4 @@
-#Becode -The Watch: AppRun JS
+# Becode -The Watch: AppRun JS
 
 [Slides](https://docs.google.com/presentation/d/1nRNySu_nfsEyJSeXKDuZbq_dhUUaxmtO6ekgTHbY3jE/edit?usp=sharing)
 
@@ -6,7 +6,7 @@ Exemples:
 * counter-web (Counter as web component)
 * apprun-exemples (Official AppRun demo)
 
-##
+## How to
 
 - Clone the repo
 - Then IN the exemples folders:
