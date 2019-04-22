@@ -6,10 +6,9 @@ Exemples:
 * counter-web (Counter as web component)
 * apprun-exemples (Official AppRun demo)
 
-## How to
+## How to?
 
-- Clone the repo
-- Then IN the exemples folders:
+Clone the repo, then IN the exemples folders:
 
 * Use _npm install_ to install dependencies
 * Use _npm start_ to start the dev server
