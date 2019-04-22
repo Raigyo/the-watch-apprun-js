@@ -3,13 +3,13 @@
 [Slides](https://docs.google.com/presentation/d/1nRNySu_nfsEyJSeXKDuZbq_dhUUaxmtO6ekgTHbY3jE/edit?usp=sharing)
 
 Exemples:
-* counter-web
-* apprun-exemples
+* counter-web (Counter as web component)
+* apprun-exemples (Official AppRun demo)
 
 ##
 
-Clone
-Then IN the exemples folders:
+- Clone the repo
+- Then IN the exemples folders:
 
 * Use _npm install_ to install dependencies
 * Use _npm start_ to start the dev server
