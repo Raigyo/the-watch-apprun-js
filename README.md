@@ -1,5 +1,7 @@
 # Becode -The Watch: AppRun JS
 
+![Becode logo](https://raw.githubusercontent.com/Raigyo/react-character-manager/master/img/becode-logo.png)
+
 *April 2019*
 
 > 🔨  Repo that is a support for a watch about AppRun JS.
